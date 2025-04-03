@@ -9,3 +9,23 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.myimg{
+    max-width: 100%;
+    max-height: auto;
+}
+body{
+    background-color: rgba(0, 232, 197, 0.634);   
+}
+.digiviceImage{
+    max-width: 5rem;
+    object-fit: cover;
+}
+.myCard{
+    max-width: 25rem;
+    height: 100%;
+}
+.footerContainer{
+    max-width: 100%;
+    background-color: rgba(35, 204, 255, 0.767);
+    padding: 0.1%;
+}
